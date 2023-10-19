@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "GLA::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-GLA-Debug-7817531e3d6d84d25b05.json",
+					"jsonFile" : "target-GLA-Debug-f17299d5cf8e20c7fd88.json",
 					"name" : "GLA",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/s_radionemu/.vscode/projects/OpenGLA_LABS_Assign1/build",
-		"source" : "C:/Users/s_radionemu/.vscode/projects/OpenGLA_LABS_Assign1"
+		"build" : "C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/build",
+		"source" : "C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 6
 	}
 }

@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/GLA.dir/Sample_main.cpp.obj"
   "CMakeFiles/GLA.dir/Sample_main.cpp.obj.d"
+  "CMakeFiles/GLA.dir/externals/lodepng/lodepng.cpp.obj"
+  "CMakeFiles/GLA.dir/externals/lodepng/lodepng.cpp.obj.d"
   "CMakeFiles/GLA.dir/general/resolution.cpp.obj"
   "CMakeFiles/GLA.dir/general/resolution.cpp.obj.d"
   "GLA.exe"

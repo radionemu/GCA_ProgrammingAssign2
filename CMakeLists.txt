@@ -14,5 +14,6 @@ add_executable(GLA
     Sample_main.cpp
     general/resolution.cpp
     general/resolution.hpp
+    externals/lodepng/lodepng.cpp
     )
 target_link_libraries(GLA -lOpenGL32 -lfreeGLUT -lglew32)

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/s_radionemu/.vscode/projects/OpenGLA_LABS_Assign1
+# Install script for directory: C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/s_radionemu/.vscode/projects/OpenGLA_LABS_Assign1/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
