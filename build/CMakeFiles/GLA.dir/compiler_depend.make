@@ -156,6 +156,7 @@ CMakeFiles/GLA.dir/Sample_main.cpp.obj: C:/Users/VR/Documents/GitHub/GCA_Program
   C:/msys64/mingw64/include/basetsd.h \
   C:/msys64/mingw64/include/bemapiset.h \
   C:/msys64/mingw64/include/c++/13.2.0/backward/binders.h \
+  C:/msys64/mingw64/include/c++/13.2.0/bit \
   C:/msys64/mingw64/include/c++/13.2.0/bits/alloc_traits.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/allocator.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/basic_ios.h \
@@ -184,6 +185,7 @@ CMakeFiles/GLA.dir/Sample_main.cpp.obj: C:/Users/VR/Documents/GitHub/GCA_Program
   C:/msys64/mingw64/include/c++/13.2.0/bits/locale_facets.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/locale_facets.tcc \
   C:/msys64/mingw64/include/c++/13.2.0/bits/localefwd.h \
+  C:/msys64/mingw64/include/c++/13.2.0/bits/memory_resource.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/memoryfwd.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/move.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/nested_exception.h \
@@ -196,6 +198,7 @@ CMakeFiles/GLA.dir/Sample_main.cpp.obj: C:/Users/VR/Documents/GitHub/GCA_Program
   C:/msys64/mingw64/include/c++/13.2.0/bits/range_access.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/refwrap.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/requires_hosted.h \
+  C:/msys64/mingw64/include/c++/13.2.0/bits/specfun.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/std_abs.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/stl_algobase.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/stl_bvector.h \
@@ -209,7 +212,10 @@ CMakeFiles/GLA.dir/Sample_main.cpp.obj: C:/Users/VR/Documents/GitHub/GCA_Program
   C:/msys64/mingw64/include/c++/13.2.0/bits/stl_vector.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/streambuf.tcc \
   C:/msys64/mingw64/include/c++/13.2.0/bits/streambuf_iterator.h \
+  C:/msys64/mingw64/include/c++/13.2.0/bits/string_view.tcc \
   C:/msys64/mingw64/include/c++/13.2.0/bits/stringfwd.h \
+  C:/msys64/mingw64/include/c++/13.2.0/bits/uses_allocator.h \
+  C:/msys64/mingw64/include/c++/13.2.0/bits/uses_allocator_args.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/utility.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/vector.tcc \
   C:/msys64/mingw64/include/c++/13.2.0/cassert \
@@ -240,13 +246,29 @@ CMakeFiles/GLA.dir/Sample_main.cpp.obj: C:/Users/VR/Documents/GitHub/GCA_Program
   C:/msys64/mingw64/include/c++/13.2.0/iostream \
   C:/msys64/mingw64/include/c++/13.2.0/istream \
   C:/msys64/mingw64/include/c++/13.2.0/limits \
+  C:/msys64/mingw64/include/c++/13.2.0/math.h \
   C:/msys64/mingw64/include/c++/13.2.0/new \
   C:/msys64/mingw64/include/c++/13.2.0/ostream \
+  C:/msys64/mingw64/include/c++/13.2.0/pstl/pstl_config.h \
   C:/msys64/mingw64/include/c++/13.2.0/stdexcept \
   C:/msys64/mingw64/include/c++/13.2.0/stdlib.h \
   C:/msys64/mingw64/include/c++/13.2.0/streambuf \
   C:/msys64/mingw64/include/c++/13.2.0/string \
+  C:/msys64/mingw64/include/c++/13.2.0/string_view \
   C:/msys64/mingw64/include/c++/13.2.0/system_error \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/bessel_function.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/beta_function.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/ell_integral.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/exp_integral.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/gamma.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/hypergeometric.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/legendre_function.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/modified_bessel_func.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/poly_hermite.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/poly_laguerre.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/riemann_zeta.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/special_function_util.h \
+  C:/msys64/mingw64/include/c++/13.2.0/tuple \
   C:/msys64/mingw64/include/c++/13.2.0/type_traits \
   C:/msys64/mingw64/include/c++/13.2.0/typeinfo \
   C:/msys64/mingw64/include/c++/13.2.0/vector \
@@ -484,6 +506,7 @@ CMakeFiles/GLA.dir/externals/lodepng/lodepng.cpp.obj: C:/Users/VR/Documents/GitH
   C:/msys64/mingw64/include/_mingw_secapi.h \
   C:/msys64/mingw64/include/_mingw_stat64.h \
   C:/msys64/mingw64/include/c++/13.2.0/backward/binders.h \
+  C:/msys64/mingw64/include/c++/13.2.0/bit \
   C:/msys64/mingw64/include/c++/13.2.0/bits/alloc_traits.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/allocator.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/basic_string.h \
@@ -500,6 +523,7 @@ CMakeFiles/GLA.dir/externals/lodepng/lodepng.cpp.obj: C:/Users/VR/Documents/GitH
   C:/msys64/mingw64/include/c++/13.2.0/bits/hash_bytes.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/invoke.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/localefwd.h \
+  C:/msys64/mingw64/include/c++/13.2.0/bits/memory_resource.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/memoryfwd.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/move.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/new_allocator.h \
@@ -521,12 +545,16 @@ CMakeFiles/GLA.dir/externals/lodepng/lodepng.cpp.obj: C:/Users/VR/Documents/GitH
   C:/msys64/mingw64/include/c++/13.2.0/bits/stl_pair.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/stl_uninitialized.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/stl_vector.h \
+  C:/msys64/mingw64/include/c++/13.2.0/bits/string_view.tcc \
   C:/msys64/mingw64/include/c++/13.2.0/bits/stringfwd.h \
+  C:/msys64/mingw64/include/c++/13.2.0/bits/uses_allocator.h \
+  C:/msys64/mingw64/include/c++/13.2.0/bits/uses_allocator_args.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/utility.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/vector.tcc \
   C:/msys64/mingw64/include/c++/13.2.0/cctype \
   C:/msys64/mingw64/include/c++/13.2.0/cerrno \
   C:/msys64/mingw64/include/c++/13.2.0/clocale \
+  C:/msys64/mingw64/include/c++/13.2.0/cstddef \
   C:/msys64/mingw64/include/c++/13.2.0/cstdio \
   C:/msys64/mingw64/include/c++/13.2.0/cstdlib \
   C:/msys64/mingw64/include/c++/13.2.0/cwchar \
@@ -539,8 +567,11 @@ CMakeFiles/GLA.dir/externals/lodepng/lodepng.cpp.obj: C:/Users/VR/Documents/GitH
   C:/msys64/mingw64/include/c++/13.2.0/initializer_list \
   C:/msys64/mingw64/include/c++/13.2.0/iosfwd \
   C:/msys64/mingw64/include/c++/13.2.0/new \
+  C:/msys64/mingw64/include/c++/13.2.0/pstl/pstl_config.h \
   C:/msys64/mingw64/include/c++/13.2.0/stdlib.h \
   C:/msys64/mingw64/include/c++/13.2.0/string \
+  C:/msys64/mingw64/include/c++/13.2.0/string_view \
+  C:/msys64/mingw64/include/c++/13.2.0/tuple \
   C:/msys64/mingw64/include/c++/13.2.0/type_traits \
   C:/msys64/mingw64/include/c++/13.2.0/vector \
   C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++allocator.h \
@@ -562,6 +593,7 @@ CMakeFiles/GLA.dir/externals/lodepng/lodepng.cpp.obj: C:/Users/VR/Documents/GitH
   C:/msys64/mingw64/include/sec_api/stdlib_s.h \
   C:/msys64/mingw64/include/sec_api/string_s.h \
   C:/msys64/mingw64/include/sec_api/wchar_s.h \
+  C:/msys64/mingw64/include/stddef.h \
   C:/msys64/mingw64/include/stdio.h \
   C:/msys64/mingw64/include/stdlib.h \
   C:/msys64/mingw64/include/string.h \
@@ -570,6 +602,7 @@ CMakeFiles/GLA.dir/externals/lodepng/lodepng.cpp.obj: C:/Users/VR/Documents/GitH
   C:/msys64/mingw64/include/wchar.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/limits.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/mm_malloc.h \
+  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/syslimits.h \
   C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/lodepng/lodepng.h
 
@@ -727,6 +760,7 @@ CMakeFiles/GLA.dir/general/resolution.cpp.obj: C:/Users/VR/Documents/GitHub/GCA_
   C:/msys64/mingw64/include/bcrypt.h \
   C:/msys64/mingw64/include/bemapiset.h \
   C:/msys64/mingw64/include/c++/13.2.0/backward/binders.h \
+  C:/msys64/mingw64/include/c++/13.2.0/bit \
   C:/msys64/mingw64/include/c++/13.2.0/bits/alloc_traits.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/allocator.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/basic_ios.h \
@@ -753,6 +787,7 @@ CMakeFiles/GLA.dir/general/resolution.cpp.obj: C:/Users/VR/Documents/GitHub/GCA_
   C:/msys64/mingw64/include/c++/13.2.0/bits/locale_facets.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/locale_facets.tcc \
   C:/msys64/mingw64/include/c++/13.2.0/bits/localefwd.h \
+  C:/msys64/mingw64/include/c++/13.2.0/bits/memory_resource.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/memoryfwd.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/move.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/nested_exception.h \
@@ -765,6 +800,7 @@ CMakeFiles/GLA.dir/general/resolution.cpp.obj: C:/Users/VR/Documents/GitHub/GCA_
   C:/msys64/mingw64/include/c++/13.2.0/bits/range_access.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/refwrap.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/requires_hosted.h \
+  C:/msys64/mingw64/include/c++/13.2.0/bits/specfun.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/std_abs.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/stl_algobase.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/stl_construct.h \
@@ -775,7 +811,10 @@ CMakeFiles/GLA.dir/general/resolution.cpp.obj: C:/Users/VR/Documents/GitHub/GCA_
   C:/msys64/mingw64/include/c++/13.2.0/bits/stl_pair.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/streambuf.tcc \
   C:/msys64/mingw64/include/c++/13.2.0/bits/streambuf_iterator.h \
+  C:/msys64/mingw64/include/c++/13.2.0/bits/string_view.tcc \
   C:/msys64/mingw64/include/c++/13.2.0/bits/stringfwd.h \
+  C:/msys64/mingw64/include/c++/13.2.0/bits/uses_allocator.h \
+  C:/msys64/mingw64/include/c++/13.2.0/bits/uses_allocator_args.h \
   C:/msys64/mingw64/include/c++/13.2.0/bits/utility.h \
   C:/msys64/mingw64/include/c++/13.2.0/cassert \
   C:/msys64/mingw64/include/c++/13.2.0/cctype \
@@ -806,11 +845,26 @@ CMakeFiles/GLA.dir/general/resolution.cpp.obj: C:/Users/VR/Documents/GitHub/GCA_
   C:/msys64/mingw64/include/c++/13.2.0/limits \
   C:/msys64/mingw64/include/c++/13.2.0/new \
   C:/msys64/mingw64/include/c++/13.2.0/ostream \
+  C:/msys64/mingw64/include/c++/13.2.0/pstl/pstl_config.h \
   C:/msys64/mingw64/include/c++/13.2.0/stdexcept \
   C:/msys64/mingw64/include/c++/13.2.0/stdlib.h \
   C:/msys64/mingw64/include/c++/13.2.0/streambuf \
   C:/msys64/mingw64/include/c++/13.2.0/string \
+  C:/msys64/mingw64/include/c++/13.2.0/string_view \
   C:/msys64/mingw64/include/c++/13.2.0/system_error \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/bessel_function.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/beta_function.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/ell_integral.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/exp_integral.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/gamma.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/hypergeometric.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/legendre_function.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/modified_bessel_func.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/poly_hermite.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/poly_laguerre.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/riemann_zeta.tcc \
+  C:/msys64/mingw64/include/c++/13.2.0/tr1/special_function_util.h \
+  C:/msys64/mingw64/include/c++/13.2.0/tuple \
   C:/msys64/mingw64/include/c++/13.2.0/type_traits \
   C:/msys64/mingw64/include/c++/13.2.0/typeinfo \
   C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/atomic_word.h \
@@ -1111,19 +1165,19 @@ C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/de
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512fintrin.h:
 
+C:/msys64/mingw64/include/psdk_inc/_ip_types.h:
+
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/detail/func_common.inl:
 
 C:/msys64/mingw64/include/c++/13.2.0/bits/ptr_traits.h:
 
-C:/msys64/mingw64/include/psdk_inc/_ip_types.h:
-
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/detail/compute_vector_relational.hpp:
+
+C:/msys64/mingw64/include/ncrypt.h:
 
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/detail/type_vec4.hpp:
 
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/Sample_main.cpp:
-
-C:/msys64/mingw64/include/ncrypt.h:
 
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/common.hpp:
 
@@ -1162,8 +1216,6 @@ C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/de
 C:/msys64/mingw64/include/securityappcontainer.h:
 
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/ext/matrix_double4x3_precision.hpp:
-
-C:/msys64/mingw64/include/objbase.h:
 
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/ext/matrix_double4x2.hpp:
 
@@ -1269,19 +1321,17 @@ C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/de
 
 C:/msys64/mingw64/include/c++/13.2.0/backward/binders.h:
 
+C:/msys64/mingw64/include/psdk_inc/_fd_types.h:
+
 C:/msys64/mingw64/include/c++/13.2.0/bits/vector.tcc:
 
 C:/msys64/mingw64/include/c++/13.2.0/new:
-
-C:/msys64/mingw64/include/psdk_inc/_fd_types.h:
 
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/detail/type_vec2.inl:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/pmmintrin.h:
 
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/detail/type_vec3.hpp:
-
-C:/msys64/mingw64/include/playsoundapi.h:
 
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/ext/matrix_double4x3.hpp:
 
@@ -1313,6 +1363,8 @@ C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/ex
 
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/ext/matrix_double3x3.hpp:
 
+C:/msys64/mingw64/include/c++/13.2.0/tr1/riemann_zeta.tcc:
+
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/ext/matrix_double3x2_precision.hpp:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/pkuintrin.h:
@@ -1320,6 +1372,10 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/pkuintrin.h:
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/ext/matrix_double3x3_precision.hpp:
 
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/ext/matrix_double3x4.hpp:
+
+C:/msys64/mingw64/include/rpcnsi.h:
+
+C:/msys64/mingw64/include/c++/13.2.0/tr1/poly_laguerre.tcc:
 
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/ext/matrix_double4x2_precision.hpp:
 
@@ -1465,11 +1521,11 @@ C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/fw
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/waitpkgintrin.h:
 
-C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/glm.hpp:
+C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/ctype_inline.h:
 
 C:/msys64/mingw64/include/mmsystem.h:
 
-C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/ctype_inline.h:
+C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/glm.hpp:
 
 C:/msys64/mingw64/include/stdarg.h:
 
@@ -1495,8 +1551,6 @@ C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/ma
 
 C:/msys64/mingw64/include/c++/13.2.0/bits/codecvt.h:
 
-C:/msys64/mingw64/include/mmeapi.h:
-
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/mat4x2.hpp:
 
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/mat4x3.hpp:
@@ -1512,8 +1566,6 @@ C:/msys64/mingw64/include/sdkddkver.h:
 C:/msys64/mingw64/include/cderr.h:
 
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/packing.hpp:
-
-C:/msys64/mingw64/include/msxml.h:
 
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/glm-0.9.9.8/glm/trigonometric.hpp:
 
@@ -1540,6 +1592,10 @@ C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/general/resolution.hpp:
 C:/msys64/mingw64/include/corecrt_wstdlib.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/bits/range_access.h:
+
+C:/msys64/mingw64/include/c++/13.2.0/bits/uses_allocator_args.h:
+
+C:/msys64/mingw64/include/c++/13.2.0/tr1/bessel_function.tcc:
 
 C:/msys64/mingw64/include/GL/freeglut_std.h:
 
@@ -1603,6 +1659,12 @@ C:/msys64/mingw64/include/bemapiset.h:
 
 C:/msys64/mingw64/include/pthread_time.h:
 
+C:/msys64/mingw64/include/c++/13.2.0/bits/invoke.h:
+
+C:/msys64/mingw64/include/winsvc.h:
+
+C:/msys64/mingw64/include/c++/13.2.0/bit:
+
 C:/msys64/mingw64/include/unknwn.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/cwchar:
@@ -1645,6 +1707,8 @@ C:/msys64/mingw64/include/stringapiset.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/bits/exception.h:
 
+C:/msys64/mingw64/include/c++/13.2.0/tr1/beta_function.tcc:
+
 C:/msys64/mingw64/include/wctype.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/bits/exception_defines.h:
@@ -1661,10 +1725,6 @@ C:/msys64/mingw64/include/c++/13.2.0/bits/requires_hosted.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/bits/functional_hash.h:
 
-C:/msys64/mingw64/include/c++/13.2.0/bits/invoke.h:
-
-C:/msys64/mingw64/include/winsvc.h:
-
 C:/msys64/mingw64/include/c++/13.2.0/bits/ios_base.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/bits/istream.tcc:
@@ -1675,6 +1735,8 @@ C:/msys64/mingw64/include/c++/13.2.0/bits/locale_facets.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/bits/locale_facets.tcc:
 
+C:/msys64/mingw64/include/c++/13.2.0/bits/memory_resource.h:
+
 C:/msys64/mingw64/include/winreg.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/bits/memoryfwd.h:
@@ -1683,11 +1745,11 @@ C:/msys64/mingw64/include/c++/13.2.0/bits/nested_exception.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/bits/ostream.tcc:
 
-C:/msys64/mingw64/include/c++/13.2.0/bits/ostream_insert.h:
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/sgxintrin.h:
 
 C:/msys64/mingw64/include/oaidl.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/sgxintrin.h:
+C:/msys64/mingw64/include/c++/13.2.0/bits/ostream_insert.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/bits/predefined_ops.h:
 
@@ -1696,6 +1758,10 @@ C:/msys64/mingw64/include/sdks/_mingw_ddk.h:
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/general/resolution.cpp:
 
 C:/msys64/mingw64/include/c++/13.2.0/bits/refwrap.h:
+
+C:/msys64/mingw64/include/c++/13.2.0/bits/specfun.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/hresetintrin.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/bits/std_abs.h:
 
@@ -1721,9 +1787,11 @@ C:/msys64/mingw64/include/c++/13.2.0/bits/stl_iterator_base_types.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/bits/stl_pair.h:
 
-C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/gthr-default.h:
+C:/msys64/mingw64/include/c++/13.2.0/tr1/special_function_util.h:
 
 C:/msys64/mingw64/include/oleidl.h:
+
+C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/gthr-default.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/bits/stl_vector.h:
 
@@ -1731,7 +1799,15 @@ C:/msys64/mingw64/include/c++/13.2.0/bits/streambuf_iterator.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/wbnoinvdintrin.h:
 
+C:/msys64/mingw64/include/c++/13.2.0/bits/string_view.tcc:
+
 C:/msys64/mingw64/include/c++/13.2.0/bits/stringfwd.h:
+
+C:/msys64/mingw64/include/c++/13.2.0/bits/uses_allocator.h:
+
+C:/msys64/mingw64/include/pshpack8.h:
+
+C:/msys64/mingw64/include/fileapi.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/bits/utility.h:
 
@@ -1791,15 +1867,17 @@ C:/msys64/mingw64/include/c++/13.2.0/ext/string_conversions.h:
 
 C:/msys64/mingw64/include/stddef.h:
 
+C:/msys64/mingw64/include/mmiscapi2.h:
+
 C:/msys64/mingw64/include/c++/13.2.0/ext/type_traits.h:
 
 C:/msys64/mingw64/include/securitybaseapi.h:
 
-C:/msys64/mingw64/include/mmiscapi2.h:
-
 C:/msys64/mingw64/include/c++/13.2.0/fstream:
 
 C:/msys64/mingw64/include/jobapi.h:
+
+C:/msys64/mingw64/include/c++/13.2.0/string_view:
 
 C:/msys64/mingw64/include/c++/13.2.0/initializer_list:
 
@@ -1807,7 +1885,17 @@ C:/msys64/mingw64/include/c++/13.2.0/ios:
 
 C:/msys64/mingw64/include/c++/13.2.0/iosfwd:
 
+C:/msys64/mingw64/include/stdio.h:
+
+C:/msys64/mingw64/include/c++/13.2.0/math.h:
+
+C:/msys64/mingw64/include/pshpack1.h:
+
 C:/msys64/mingw64/include/c++/13.2.0/ostream:
+
+C:/msys64/mingw64/include/c++/13.2.0/pstl/pstl_config.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/bmi2intrin.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/stdexcept:
 
@@ -1816,6 +1904,32 @@ C:/msys64/mingw64/include/c++/13.2.0/streambuf:
 C:/msys64/mingw64/include/string.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/system_error:
+
+C:/msys64/mingw64/include/c++/13.2.0/tr1/ell_integral.tcc:
+
+C:/msys64/mingw64/include/pthread_compat.h:
+
+C:/msys64/mingw64/include/c++/13.2.0/tr1/exp_integral.tcc:
+
+C:/msys64/mingw64/include/c++/13.2.0/tr1/gamma.tcc:
+
+C:/msys64/mingw64/include/c++/13.2.0/tr1/hypergeometric.tcc:
+
+C:/msys64/mingw64/include/c++/13.2.0/tr1/legendre_function.tcc:
+
+C:/msys64/mingw64/include/poppack.h:
+
+C:/msys64/mingw64/include/c++/13.2.0/tr1/modified_bessel_func.tcc:
+
+C:/msys64/mingw64/include/_bsd_types.h:
+
+C:/msys64/mingw64/include/c++/13.2.0/tr1/poly_hermite.tcc:
+
+C:/msys64/mingw64/include/c++/13.2.0/tuple:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/fmaintrin.h:
+
+C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/cpu_defines.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/typeinfo:
 
@@ -1838,10 +1952,6 @@ C:/msys64/mingw64/include/winspool.h:
 C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++io.h:
-
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/fmaintrin.h:
-
-C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/cpu_defines.h:
 
 C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/ctype_base.h:
 
@@ -1879,10 +1989,6 @@ C:/msys64/mingw64/include/excpt.h:
 
 C:/msys64/mingw64/include/fibersapi.h:
 
-C:/msys64/mingw64/include/pshpack8.h:
-
-C:/msys64/mingw64/include/fileapi.h:
-
 C:/msys64/mingw64/include/handleapi.h:
 
 C:/msys64/mingw64/include/heapapi.h:
@@ -1897,23 +2003,17 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/vpclmulqdqintrin.h:
 
 C:/msys64/mingw64/include/ktmtypes.h:
 
-C:/msys64/mingw64/include/malloc.h:
-
 C:/msys64/mingw64/include/objidl.h:
 
-C:/msys64/mingw64/include/namedpipeapi.h:
+C:/msys64/mingw64/include/malloc.h:
 
-C:/msys64/mingw64/include/poppack.h:
+C:/msys64/mingw64/include/namedpipeapi.h:
 
 C:/msys64/mingw64/include/processenv.h:
 
 C:/msys64/mingw64/include/profileapi.h:
 
 C:/msys64/mingw64/include/psdk_inc/intrin-impl.h:
-
-C:/msys64/mingw64/include/stdio.h:
-
-C:/msys64/mingw64/include/pshpack1.h:
 
 C:/msys64/mingw64/include/pshpack2.h:
 
@@ -1922,8 +2022,6 @@ C:/msys64/mingw64/include/pshpack4.h:
 C:/msys64/mingw64/include/pthread.h:
 
 C:/msys64/mingw64/include/systemtopologyapi.h:
-
-C:/msys64/mingw64/include/pthread_compat.h:
 
 C:/msys64/mingw64/include/pthread_unistd.h:
 
@@ -1943,8 +2041,6 @@ C:/msys64/mingw64/include/stdint.h:
 
 C:/msys64/mingw64/include/stdlib.h:
 
-C:/msys64/mingw64/include/ole2.h:
-
 C:/msys64/mingw64/include/swprintf.inl:
 
 C:/msys64/mingw64/include/synchapi.h:
@@ -1952,8 +2048,6 @@ C:/msys64/mingw64/include/synchapi.h:
 C:/msys64/mingw64/include/sys/types.h:
 
 C:/msys64/mingw64/include/threadpoolapiset.h:
-
-C:/msys64/mingw64/include/mciapi.h:
 
 C:/msys64/mingw64/include/threadpoollegacyapiset.h:
 
@@ -2041,9 +2135,9 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512vp2intersectvl
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avx512vpopcntdqintrin.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avxifmaintrin.h:
-
 C:/msys64/mingw64/include/mmiscapi.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avxifmaintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avxintrin.h:
 
@@ -2057,8 +2151,6 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/avxvnniintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/popcntintrin.h:
 
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/bmi2intrin.h:
-
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/bmiintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/emmintrin.h:
@@ -2070,8 +2162,6 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/f16cintrin.h:
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/fma4intrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/gfniintrin.h:
-
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/hresetintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/ia32intrin.h:
 
@@ -2111,8 +2201,6 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/xsaveoptintrin.h:
 
 C:/Users/VR/Documents/GitHub/GCA_ProgrammingAssign2/externals/lodepng/lodepng.cpp:
 
-C:/msys64/mingw64/include/_bsd_types.h:
-
 C:/msys64/mingw64/include/bcrypt.h:
 
 C:/msys64/mingw64/include/cguid.h:
@@ -2125,19 +2213,31 @@ C:/msys64/mingw64/include/dpapi.h:
 
 C:/msys64/mingw64/include/inaddr.h:
 
+C:/msys64/mingw64/include/mciapi.h:
+
+C:/msys64/mingw64/include/mmeapi.h:
+
 C:/msys64/mingw64/include/mmsyscom.h:
+
+C:/msys64/mingw64/include/msxml.h:
 
 C:/msys64/mingw64/include/nb30.h:
 
+C:/msys64/mingw64/include/objbase.h:
+
 C:/msys64/mingw64/include/objidlbase.h:
+
+C:/msys64/mingw64/include/ole2.h:
 
 C:/msys64/mingw64/include/oleauto.h:
 
+C:/msys64/mingw64/include/playsoundapi.h:
+
 C:/msys64/mingw64/include/propidl.h:
 
-C:/msys64/mingw64/include/psdk_inc/_ip_mreq1.h:
-
 C:/msys64/mingw64/include/prsht.h:
+
+C:/msys64/mingw64/include/psdk_inc/_ip_mreq1.h:
 
 C:/msys64/mingw64/include/psdk_inc/_socket_types.h:
 
@@ -2156,8 +2256,6 @@ C:/msys64/mingw64/include/rpcdce.h:
 C:/msys64/mingw64/include/rpcdcep.h:
 
 C:/msys64/mingw64/include/rpcndr.h:
-
-C:/msys64/mingw64/include/rpcnsi.h:
 
 C:/msys64/mingw64/include/rpcnsip.h:
 

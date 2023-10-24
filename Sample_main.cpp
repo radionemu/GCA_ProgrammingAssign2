@@ -1,6 +1,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h>
 #include <string>
 #include <iostream>
 #include <fstream>
@@ -32,7 +33,12 @@ GLuint TextureSampler;
 
 //Uniforms
 GLuint tessID;
+GLuint modeID;
+GLuint threshID;
+
 int tessLv = 10;
+int mode = 0;
+float thresh = 0.3f;
 
 static void GLClearError(){
     while(glGetError() != GL_NO_ERROR);
@@ -178,14 +184,13 @@ GLuint LoadShaders(const char* vertex_file_path, const char* fragment_file_path)
 
 void renderScene(void)
 {
-	//printf("%d\n", vertices.size());
+    glUniform1i(modeID, mode);
+    glUniform1f(threshID, thresh);
+
 	//Clear all pixels
 	glClear(GL_COLOR_BUFFER_BIT);
-	//Let's draw something here
-
 	//bind and buffer data since data is added on callback function
 	glBindVertexArray(VertexArrayID[0]);
-	//glBindBuffer(GL_ARRAY_BUFFER, Buffers[0]);
 	glActiveTexture(GL_TEXTURE0);
 	glBindTexture(GL_TEXTURE_2D, gTextureID);
 	glUniform1i(TextureSampler, 0);
@@ -198,11 +203,25 @@ void renderScene(void)
 }
 
 void MouseEvent(int button, int state, int x, int y){
-
+    if(button == GLUT_LEFT_BUTTON && state == GLUT_DOWN){
+        mode = (mode+1)%4;
+    }else if(button == GLUT_RIGHT_BUTTON && state == GLUT_DOWN){
+        mode = (4+((mode-1)%4))%4;
+    }
+    if(state == GLUT_DOWN)
+        printf("mode changed into [%d]\n", mode);
+    glutPostRedisplay();
 }
 
 void KeyboardEvent(int key, int x, int y){
-	glutPostRedisplay();
+    if(key == GLUT_KEY_RIGHT){
+        thresh += 0.1f;
+    }else if(key == GLUT_KEY_LEFT){
+        thresh -= 0.1f;
+    }
+    thresh = glm::clamp(thresh,0.0f,1.0f);
+    printf("current Threshold : [%f]\n", thresh);
+    glutPostRedisplay();
 }
 
 void init()
@@ -277,6 +296,8 @@ int main(int argc, char **argv)
 	glVertexAttribPointer(UVAttr, 2, GL_FLOAT, GL_FALSE, sizeof(float)*4,((void *)8));
 	glEnableVertexAttribArray(UVAttr);
 	//Link Uniform
+    modeID = glGetUniformLocation(programID, "rendermode");
+    threshID = glGetUniformLocation(programID, "threshold");
 
 	//Texture Load
 	gTextureID = LoadPNG("Lenna.png");

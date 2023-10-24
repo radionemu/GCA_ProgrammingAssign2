@@ -13,6 +13,7 @@ CMakeFiles/GLA.dir/externals/lodepng/lodepng.cpp.obj: \
  C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++config.h \
  C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/os_defines.h \
  C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/cpu_defines.h \
+ C:/msys64/mingw64/include/c++/13.2.0/pstl/pstl_config.h \
  C:/msys64/mingw64/include/c++/13.2.0/bits/stl_algobase.h \
  C:/msys64/mingw64/include/c++/13.2.0/bits/functexcept.h \
  C:/msys64/mingw64/include/c++/13.2.0/bits/exception_defines.h \
@@ -31,6 +32,7 @@ CMakeFiles/GLA.dir/externals/lodepng/lodepng.cpp.obj: \
  C:/msys64/mingw64/include/c++/13.2.0/bits/ptr_traits.h \
  C:/msys64/mingw64/include/c++/13.2.0/debug/debug.h \
  C:/msys64/mingw64/include/c++/13.2.0/bits/predefined_ops.h \
+ C:/msys64/mingw64/include/c++/13.2.0/bit \
  C:/msys64/mingw64/include/c++/13.2.0/bits/allocator.h \
  C:/msys64/mingw64/include/c++/13.2.0/x86_64-w64-mingw32/bits/c++allocator.h \
  C:/msys64/mingw64/include/c++/13.2.0/bits/new_allocator.h \
@@ -52,6 +54,13 @@ CMakeFiles/GLA.dir/externals/lodepng/lodepng.cpp.obj: \
  C:/msys64/mingw64/include/c++/13.2.0/backward/binders.h \
  C:/msys64/mingw64/include/c++/13.2.0/bits/range_access.h \
  C:/msys64/mingw64/include/c++/13.2.0/bits/vector.tcc \
+ C:/msys64/mingw64/include/c++/13.2.0/bits/memory_resource.h \
+ C:/msys64/mingw64/include/c++/13.2.0/cstddef \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/13.2.0/include/stddef.h \
+ C:/msys64/mingw64/include/stddef.h \
+ C:/msys64/mingw64/include/c++/13.2.0/bits/uses_allocator.h \
+ C:/msys64/mingw64/include/c++/13.2.0/bits/uses_allocator_args.h \
+ C:/msys64/mingw64/include/c++/13.2.0/tuple \
  C:/msys64/mingw64/include/c++/13.2.0/string \
  C:/msys64/mingw64/include/c++/13.2.0/bits/stringfwd.h \
  C:/msys64/mingw64/include/c++/13.2.0/bits/char_traits.h \
@@ -75,6 +84,8 @@ CMakeFiles/GLA.dir/externals/lodepng/lodepng.cpp.obj: \
  C:/msys64/mingw64/include/c++/13.2.0/bits/ostream_insert.h \
  C:/msys64/mingw64/include/c++/13.2.0/bits/cxxabi_forced.h \
  C:/msys64/mingw64/include/c++/13.2.0/bits/basic_string.h \
+ C:/msys64/mingw64/include/c++/13.2.0/string_view \
+ C:/msys64/mingw64/include/c++/13.2.0/bits/string_view.tcc \
  C:/msys64/mingw64/include/c++/13.2.0/ext/string_conversions.h \
  C:/msys64/mingw64/include/c++/13.2.0/cstdlib \
  C:/msys64/mingw64/include/stdlib.h \
