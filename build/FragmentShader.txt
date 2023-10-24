@@ -31,7 +31,7 @@ void main()
 	mat3 Iden;
 	for(int i=0; i<3; i++){
 		for(int j=0; j<3; j++){
-			vec3 ssample = texelFetch(TextureSampler, ivec2(gl_FragCoord.x*0.85, (-gl_FragCoord.y*0.85)+512)+ivec2(i-1,j-1),0).rgb;
+			vec3 ssample = texelFetch(TextureSampler, ivec2(gl_FragCoord.x, -gl_FragCoord.y+512)+ivec2(i-1,j-1),0).rgb;
 			Iden[i][j] = length(ssample);
 		}
 	}

@@ -18,7 +18,7 @@
 using namespace std;
 
 //Global Variables
-int WIDTH = 600; int HEIGHT = 600;
+int WIDTH = 512; int HEIGHT = 512;
 int reswidth, resheight;
 //input vector
 std::vector<glm::vec4> vertices;
